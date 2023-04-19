@@ -1,2 +1,2 @@
 #!/bin/bash
-prep -l "root" /etc/passwd
+prep -lA 3 "root" /etc/passwd
